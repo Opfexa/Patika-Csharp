@@ -85,6 +85,7 @@ namespace Operators
             // % mod almak için kullanılır
             int sonuc5 = 20 % 3;
             Console.WriteLine(sonuc5);
+            
         }
     }
 }
